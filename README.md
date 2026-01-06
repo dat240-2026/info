@@ -4,4 +4,4 @@
 - [QuickFeed link](https://uis.itest.run)
 - [Lab submissions](./lab-submission.md)
 - [Discord server](https://github.com/dat240-2026/info/blob/main/signup.md#discord-dat240-server-registration)
-- [Discord server invite](https://discord.gg/AXFDfRH4FM)
+- [Discord server invite](https://discord.gg/uMhFbBDcNQ)
