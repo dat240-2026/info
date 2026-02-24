@@ -21,15 +21,15 @@
 | 7   | 10/02/2026 | Lecture | Glenn          | Application architecture      |           |                      |
 |     | 10/02/2026 | Lab     |                |                               |           |                      |
 |     | 11/02/2026 | Lecture | Glenn          | Application architecture      |           |                      |
-| 8   | 17/02/2026 | Lecture | Glenn          | Practical application setup   |           |                      |
+| 8   | 17/02/2026 | Lecture | Glenn          | Data access and ORMs          |           |                      |
 |     | 17/02/2026 | Lab     |                |                               |           | **Assignment 2 due** |
-|     | 18/02/2026 | Lecture | Glenn          | Practical application setup   |           |                      |
-| 9   | 24/02/2026 | Lecture | Glenn          | Data access and ORMs          |           |                      |
+|     | 18/02/2026 | Lecture | Glenn          | Integration testing           |           |                      |
+| 9   | 24/02/2026 | Lecture | Glenn          | Events (synchronous)          |           |                      |
 |     | 24/02/2026 | Lab     |                |                               |           |                      |
-|     | 25/02/2026 | Lecture | Glenn          | Integration testing           |           |                      |
-| 10  | 03/03/2026 | Lecture | Glenn          | Events                        |           |                      |
+|     | 25/02/2026 | Lecture | No lecture     |                               |           |                      |
+| 10  | 03/03/2026 | Lecture | Glenn          | Events (asynchronous)         |           |                      |
 |     | 03/03/2026 | Lab     |                |                               |           |                      |
-|     | 04/03/2026 | Lecture | Glenn          | Events                        |           |                      |
+|     | 04/03/2026 | Lecture | Glenn          | Events (asynchronous)         |           |                      |
 | 11  | 10/03/2026 | Lecture | Glenn          |                               |           |                      |
 |     | 10/03/2026 | Lab     |                |                               |           | **Assignment 3 due** |
 |     | 11/03/2026 | Lecture | Glenn          |                               |           |                      |
